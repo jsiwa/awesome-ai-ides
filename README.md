@@ -57,6 +57,7 @@ Tools that go beyond simple completion to perform complex, multi-step engineerin
 | **OpenHands** | Open Source | An open-source platform for autonomous AI software agents. | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
 | **Plandex** | CLI/Agent | An AI coding agent designed for complex, multi-file tasks. | [GitHub](https://github.com/plandex-ai/plandex) |
 | **Sweep** | GitHub App | An AI junior developer that handles small bugs and feature requests. | [Website](https://sweep.dev/) |
+| **TWZRD Agent Intel** | Trust Infrastructure | MCP server for verifying AI agent wallet identity on Solana before code deployments or x402 micropayments. Free: `score_agent`, `preflight_check`. | [Website](https://intel.twzrd.xyz) |
 
 ## 🇨🇳 Chinese AI Coding Tools (国产)
 
