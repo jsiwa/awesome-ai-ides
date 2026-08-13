@@ -55,6 +55,7 @@
 | **Aider** | 命令行 | 让你通过聊天在本地 Git 仓库中编辑代码的命令行工具。 | [官网](https://aider.chat/) |
 | **Devin** | 平台 | 全球首位全自主 AI 软件工程师。 | [官网](https://www.cognition.ai/) |
 | **OpenHands** | 开源 | 自主 AI 软件智能体的开源平台。 | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
+| **Orkas** | 桌面智能体工作区 | 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业智能体与外部编程智能体。 | [GitHub](https://github.com/Orkas-AI/Orkas) |
 | **Plandex** | 命令行/智能体 | 为复杂、多文件任务设计的 AI 编程智能体。 | [GitHub](https://github.com/plandex-ai/plandex) |
 | **Sweep** | GitHub 应用 | 处理小型 Bug 和功能请求的 AI 初级开发人员。 | [官网](https://sweep.dev/) |
 

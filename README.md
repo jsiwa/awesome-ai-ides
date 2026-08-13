@@ -55,6 +55,7 @@ Tools that go beyond simple completion to perform complex, multi-step engineerin
 | **Aider** | CLI | A command-line tool that lets you edit code in your local git repo via chat. | [Website](https://aider.chat/) |
 | **Devin** | Platform | The world's first fully autonomous AI software engineer. | [Website](https://www.cognition.ai/) |
 | **OpenHands** | Open Source | An open-source platform for autonomous AI software agents. | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
+| **Orkas** | Desktop Agent Workspace | An open-source, local-first desktop AI workforce where a Commander coordinates specialist and external coding agents through one chat. | [GitHub](https://github.com/Orkas-AI/Orkas) |
 | **Plandex** | CLI/Agent | An AI coding agent designed for complex, multi-file tasks. | [GitHub](https://github.com/plandex-ai/plandex) |
 | **Sweep** | GitHub App | An AI junior developer that handles small bugs and feature requests. | [Website](https://sweep.dev/) |
 
