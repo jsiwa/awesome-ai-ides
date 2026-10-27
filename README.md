@@ -32,6 +32,7 @@ Enhance your existing development environment with these powerful AI assistants.
 | **Codeium** | 40+ IDEs | A free, high-quality alternative to GitHub Copilot. | Free for Individuals | [Website](https://codeium.com/) |
 | **Continue** | VS Code, JetBrains | An open-source autopilot for building your own AI IDE. | Open Source | [Website](https://www.continue.dev/) |
 | **Roo Code** | VS Code | A powerful fork of Cline with enhanced agentic capabilities. | Open Source | [GitHub](https://github.com/RooVetGit/Roo-Code) |
+| **OxCode** | VS Code and compatible editors | An AI software engineer that plans, writes, tests and debugs code. | Free plan; paid plans available | [Website](https://www.oxcode.ai/) |
 
 ## ☁️ Online & Cloud AI IDEs
 

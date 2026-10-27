@@ -32,6 +32,7 @@
 | **Codeium** | 40+ IDEs | GitHub Copilot 的高质量免费替代方案。 | 个人免费 | [官网](https://codeium.com/) |
 | **Continue** | VS Code, JetBrains | 用于构建自定义 AI IDE 的开源自动驾驶工具。 | 开源 | [官网](https://www.continue.dev/) |
 | **Roo Code** | VS Code | Cline 的强大分支，增强了智能体自主能力。 | 开源 | [GitHub](https://github.com/RooVetGit/Roo-Code) |
+| **OxCode** | VS Code 及兼容编辑器 | 可规划、编写、测试和调试代码的 AI 软件工程师。 | 提供免费和付费方案 | [官网](https://www.oxcode.ai/) |
 
 ## ☁️ 在线与云端 AI IDE
 
