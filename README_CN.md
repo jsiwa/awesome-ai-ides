@@ -53,6 +53,7 @@
 | 名称 | 类型 | 描述 | 链接 |
 | :--- | :--- | :--- | :--- |
 | **Aider** | 命令行 | 让你通过聊天在本地 Git 仓库中编辑代码的命令行工具。 | [官网](https://aider.chat/) |
+| **Althar** | 桌面端智能体开发环境（ADE） | 将需求拆分成任务并分配给编码智能体，再由另一个模型审查代码变更。 | [GitHub](https://github.com/AltharIDE/althar) |
 | **Devin** | 平台 | 全球首位全自主 AI 软件工程师。 | [官网](https://www.cognition.ai/) |
 | **OpenHands** | 开源 | 自主 AI 软件智能体的开源平台。 | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
 | **Plandex** | 命令行/智能体 | 为复杂、多文件任务设计的 AI 编程智能体。 | [GitHub](https://github.com/plandex-ai/plandex) |
