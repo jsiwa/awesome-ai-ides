@@ -53,6 +53,7 @@ Tools that go beyond simple completion to perform complex, multi-step engineerin
 | Name | Type | Description | Links |
 | :--- | :--- | :--- | :--- |
 | **Aider** | CLI | A command-line tool that lets you edit code in your local git repo via chat. | [Website](https://aider.chat/) |
+| **Althar** | Desktop ADE | Turns requests into tasks, assigns coding agents, and sends their changes to another model for review. | [GitHub](https://github.com/AltharIDE/althar) |
 | **Devin** | Platform | The world's first fully autonomous AI software engineer. | [Website](https://www.cognition.ai/) |
 | **OpenHands** | Open Source | An open-source platform for autonomous AI software agents. | [GitHub](https://github.com/All-Hands-AI/OpenHands) |
 | **Plandex** | CLI/Agent | An AI coding agent designed for complex, multi-file tasks. | [GitHub](https://github.com/plandex-ai/plandex) |
